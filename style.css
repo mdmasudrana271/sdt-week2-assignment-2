@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.meal {
+  justify-content: start;
+}
+
+.cart-div {
+  margin-bottom: 9px;
+}
+.cart-img {
+  height: 100px;
+}
